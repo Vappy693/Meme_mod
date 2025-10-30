@@ -6,7 +6,7 @@ on-arrival: ddp_seen = 1
 view-if: ddp_seen = 0 and year = 1928 and month >= 3 and month < 5
 new-page: true
 
-= ddp
+= DDP coup!
 
 It seems our cold relations with the DDP have caught up to us. The right wing of the party around Gessler and Erich-Koch have cowed the party into submission with threats of resignation into reshuffling the leadership of the DDP.
 
