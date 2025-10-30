@@ -1,0 +1,17 @@
+title: DDP coup!
+subtitle: Rathenau's paper crown
+tags: event
+is-card: true
+on-arrival: ddp_seen = 1
+view-if: ddp_seen = 0 and year = 1928 and month >= 3 and month < 5
+new-page: true
+
+= ddp
+
+It seems our cold relations with the DDP have caught up to us. The right wing of the party around Gessler and Erich-Koch have cowed the party into submission with threats of resignation into reshuffling the leadership of the DDP.
+
+While Rathenau remains symbolically in charge it is clear it's nothing but a paper crown. Erich-Koch now holds the whip and the right has been granted significant power in all future negotiations.
+
+While the left has managed to secure a guarantee of an "aye" whip on the WPA, it is clear that all future negotiations with the party will be difficult at best.
+
+- @skibidi_2987671627: Shit.
